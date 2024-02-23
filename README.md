@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **mlvgao18@gmail.com**
 
-- 🎈 Fun fact **There was no code without the bits**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/malvin-gao-0697922a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jansen-moral-a8a684288" height="30" width="40" /></a>
