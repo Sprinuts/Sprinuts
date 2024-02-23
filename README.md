@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on some **unfinished projects**
 
-- 🌱 I’m currently learning **Python, Game Dev, Web Designing**
+- 📖 I’m currently learning **Python, Game Dev, Web Designing**
 
 - 💬 Ask me about **C++, C Shell**
 
 - 📫 How to reach me **mlvgao18@gmail.com**
 
-- ⚡ Fun fact **There was no code without the bits**
+- 🎈 Fun fact **There was no code without the bits**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
