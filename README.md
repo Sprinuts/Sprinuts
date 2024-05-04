@@ -6,7 +6,7 @@
 
 - 📖 I’m currently learning **Python, Game Dev, Web Designing**
 
-- 💬 Ask me about **C++, C Shell**
+- 💬 Ask me about **Python, C Shell**
 
 - 📫 How to reach me **mlvgao18@gmail.com**
 
