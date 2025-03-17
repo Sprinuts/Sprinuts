@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on some **unfinished projects**
 
-- 📖 I’m currently learning **Kotlin, Game Dev, Web Developer**
+- 📖 I’m currently learning **Assembly, Game Dev, Web Developer**
 
 - 💬 Ask me about **Python, C Shell**
 
