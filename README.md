@@ -13,8 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/malvin-gao-0697922a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jansen-moral-a8a684288" height="30" width="40" /></a>
-<a href="https://www.facebook.com/gaqmaIvln/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jm.xhinvierxd" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mlvjbert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shinnamon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
